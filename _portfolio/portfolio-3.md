@@ -2,19 +2,13 @@
 title: "Nanophotonic particle trapping using DBR-enhanced optical fields"
 excerpt: "Demonstrated nanoparticle trapping using distributed Bragg reflector (DBR)-enhanced optical fields for improved confinement and manipulation at the nanoscale. Keywords: nanophotonics, optical trapping, DBR, optical alignment, nanofabrication, near-field optics.
 
-### **Challenge**
-- Effective nanoscale particle trapping is fundamentally limited by the diffraction of light. Here, we enhance the near-field intensity in a single nanoantenna to increase the optical gradient force, enabling stable trapping of particles smaller than 50 nm.
+**Challenge**- Effective nanoscale particle trapping is fundamentally limited by the diffraction of light. Here, we enhance the near-field intensity in a single nanoantenna to increase the optical gradient force, enabling stable trapping of particles smaller than 50 nm.
 
-### **Approach**
-- We leverage near-field enhancement from the slot effect in a reflector-backed nanoantenna system supported by a distributed Bragg reflector (DBR). The slot geometry concentrates the electric field within the low-index gap, consistent with Maxwell’s boundary conditions, thereby significantly enhancing the local field intensity.
+**Approach**- We leverage near-field enhancement from the slot effect in a reflector-backed nanoantenna system supported by a distributed Bragg reflector (DBR). The slot geometry concentrates the electric field within the low-index gap, consistent with Maxwell’s boundary conditions, thereby significantly enhancing the local field intensity.
 
-### **Techniques**
-- Thermonanophotonics, coupled EM/thermal/optical force simulations, thin-film optimization (DBR)
-- Nanofabrication (EBL, PECVD, RIE)
+**Techniques**- Thermonanophotonics, coupled EM/thermal/optical force simulations, thin-film optimization (DBR), Nanofabrication (EBL, PECVD, RIE)
 
-### **Instruments**
-- Nikon microscopy systems, CW lasers
-- Photodetectors, CMOS cameras<br/><img src='/images/paper3.png'>"
+**Instruments**- Nikon microscopy systems, CW lasers, Photodetectors, CMOS cameras<br/><img src='/images/paper3.png'>"
 collection: portfolio
 ---
 
