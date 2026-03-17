@@ -1,6 +1,6 @@
 ---
 title: "AI-assisted interferometric nanotweezers for label-free EV detection"
-excerpt: "Developed an interferometric nanotweezer platform for label-free trapping and analysis of extracellular vesicles using optical sensing and AI-assisted image processing. Keywords: nanophotonics, optical trapping, interferometric imaging, AI analysis, label-free sensing.<br/><img src='/images/number_4.png'>"
+excerpt: "Developed an interferometric nanotweezer platform for label-free trapping and analysis of extracellular vesicles using optical sensing and AI-assisted image processing. Keywords: nanophotonics, optical trapping, interferometric imaging, AI analysis, label-free sensing.<br/><img src='/images/paper4.png'>"
 collection: portfolio
 ---
 
