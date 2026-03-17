@@ -1,6 +1,14 @@
 ---
 title: "Parallel nanophotonic trapping platform enabled by photolithographic scalability"
-excerpt: "Developed a parallelized nanophotonic trapping system using photolithographically defined structures, enabling rapid and scalable manipulation of nanoscale particles beyond conventional single-beam optical tweezers. Keywords: parallel trapping, nanophotonics, photolithography, optical tweezers, scalable sensing.<br/><img src='/images/paper4.png'>"
+excerpt: "Developed a parallelized nanophotonic trapping system using photolithographically defined structures, enabling rapid and scalable manipulation of nanoscale particles beyond conventional single-beam optical tweezers. Keywords: parallel trapping, nanophotonics, photolithography, optical tweezers, scalable sensing.
+
+### **Techniques**
+- Thermal/flow simulations(DBR)
+- Nanofabrication (Lithography, Evaporation)
+
+### **Instruments**
+- Nikon microscopy systems, CW lasers
+- Photodetectors, CMOS cameras<br/><img src='/images/paper4.png'>"
 collection: portfolio
 ---
 
