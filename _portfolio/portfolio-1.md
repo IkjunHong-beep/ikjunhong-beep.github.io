@@ -1,7 +1,7 @@
 ---
 title: "Quasi-Q-switched mode-locked fiber laser for efficient second-harmonic generation"
 excerpt: "Developed a ytterbium-doped fiber laser using subharmonic cavity modulation to generate quasi-Q-switched mode-locked pulses for enhanced 532 nm second-harmonic generation in MgO:PPLN.
-
+<br/>
 **Challenge** – Efficient nonlinear frequency conversion is limited by insufficient peak power and pulse dynamics in conventional fiber laser systems.
 <br/>
 **Approach** – Designed a quasi-Q-switched mode-locked fiber laser using subharmonic cavity modulation. Enhanced pulse energy and peak power to improve nonlinear interaction efficiency in MgO:PPLN for 532 nm SHG.
