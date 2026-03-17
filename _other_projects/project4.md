@@ -1,6 +1,6 @@
 ---
 title: "Medium-less Display via Acousto-Optic Perturbation"
-excerpt: "Exploring acousto-optic effects in air to generate controllable refractive index perturbations for free-space display systems.<br/><img src='/images/project1.jpg'>"
+excerpt: "Exploring acousto-optic effects in air to generate controllable refractive index perturbations for free-space display systems."
 permalink: other_projects
 ---
 
