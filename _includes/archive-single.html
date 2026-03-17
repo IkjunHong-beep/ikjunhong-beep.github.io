@@ -14,24 +14,17 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" %}
+    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        {% if post.video %}
-          <video autoplay loop muted playsinline width="100%" style="border-radius:10px;">
-            <source src="{{ post.video | relative_url }}" type="video/mp4">
-          </video>
-        {% elsif teaser %}
-          <img src=
-            {% if teaser contains "://" %}
-              "{{ teaser }}"
-            {% else %}
-              "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-            {% endif %}
-            alt="">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
     {% endif %}
-
-  </div>
-{% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
