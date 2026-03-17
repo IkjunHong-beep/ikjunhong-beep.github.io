@@ -1,6 +1,10 @@
 ---
 title: "Quasi-Q-switched mode-locked fiber laser for efficient second-harmonic generation"
-excerpt: "Developed a ytterbium-doped fiber laser using subharmonic cavity modulation to generate quasi-Q-switched mode-locked pulses for enhanced 532 nm second-harmonic generation in MgO:PPLN. Keywords: Fiber laser, AOM, SHG, Amplifer, and RF modulation <br/><img src='/images/paper1.png'>"
+excerpt: "Developed a ytterbium-doped fiber laser using subharmonic cavity modulation to generate quasi-Q-switched mode-locked pulses for enhanced 532 nm second-harmonic generation in MgO:PPLN.
+
+Techniques: Fiber lasers, AOM modulation, nonlinear optics (SHG), optical amplification, RF modulation<br>
+Instruments: OSA, oscilloscope, spectrum analyzer, photodetectors, CMOS cameras, gain fibers (Er, Yb), WDM, isolators, wave plates, RF drivers
+<br/><img src='/images/paper1.png'>"
 collection: portfolio
 ---
 
