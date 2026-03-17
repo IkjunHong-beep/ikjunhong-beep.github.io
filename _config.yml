@@ -239,7 +239,7 @@ collections:
     permalink: /:collection/:path/
   other_projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /other_projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
