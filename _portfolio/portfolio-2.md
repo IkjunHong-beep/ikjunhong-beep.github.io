@@ -2,19 +2,13 @@
 title: "Hybrid nanophotonic tweezers for nanoscale particle manipulation"
 excerpt: "Designed an anapole-enhanced dielectric nanotweezer platform combining optical and diffusiophoretic forces for low-power, label-free nanoparticle manipulation. 
 
-### **Challenge**
-- Near-field trapping experiments are strongly influenced by Brownian motion, making it difficult for nanoparticles to approach the nanoresonator. An additional transport mechanism is required to guide particles into the near-field region.
+**Challenge**- Near-field trapping experiments are strongly influenced by Brownian motion, making it difficult for nanoparticles to approach the nanoresonator. An additional transport mechanism is required to guide particles into the near-field region.
 
-### **Approach**
-- We utilize diffusiophoresis induced by localized thermal gradients from the nanoantenna. This generates fluid-driven transport, enabling particles to be delivered toward the resonator for efficient trapping.
+**Approach**- We utilize diffusiophoresis induced by localized thermal gradients from the nanoantenna. This generates fluid-driven transport, enabling particles to be delivered toward the resonator for efficient trapping.
 
-### **Techniques**
-- Thermonanophotonics, EM/thermal/fluid simulations  
-- Nanofabrication (EBL, PECVD, RIE)
+**Techniques**- Thermonanophotonics, EM/thermal/fluid simulations, Nanofabrication (EBL, PECVD, RIE)
 
-### **Instruments**
-- Nikon microscopy systems, CW lasers  
-- Photodetectors, CMOS cameras
+**Instruments**- Nikon microscopy systems, CW lasers, Photodetectors, CMOS cameras
   
 <br/><img src='/images/paper2.png'>"
 collection: portfolio
