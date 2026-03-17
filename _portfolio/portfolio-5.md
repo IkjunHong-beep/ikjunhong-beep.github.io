@@ -5,8 +5,7 @@ collection: portfolio
 ---
 
 <video controls width="100%" style="border-radius:10px; margin-top:10px;">
-  <source src="/images/paper5.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="{{ '/images/paper5.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 Developed an AI-assisted interferometric nanotweezer platform for label-free trapping and analysis of extracellular vesicles (EVs) and nanoscale particles. The system integrates nanophotonic trapping with interferometric scattering (iSCAT/COBRI) imaging, enabling real-time detection of weak optical signals from sub-diffraction-limit objects.
