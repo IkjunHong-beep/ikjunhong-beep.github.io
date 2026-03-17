@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Quasi-Q-switched mode-locked fiber laser for efficient second-harmonic generation"
+excerpt: "Developed a ytterbium-doped fiber laser using subharmonic cavity modulation to generate quasi-Q-switched mode-locked pulses for enhanced 532 nm second-harmonic generation in MgO:PPLN.<br/><img src='/images/number_1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A fiber-laser platform based on subharmonic cavity modulation was developed to generate quasi-Q-switched mode-locked pulses for efficient nonlinear frequency conversion. The system used a 1064 nm ytterbium-doped fiber ring cavity incorporating an acousto-optic modulator (AOM) and a two-stage amplifier to produce stable high-peak-power pulses. By applying subharmonic modulation, the laser generated quasi-Q-switched mode-locked pulses with enhanced peak power compared with conventional mode-locked operation. These pulses were then frequency-doubled in MgO:PPLN to produce 532 nm green output with improved second-harmonic conversion efficiency. The study showed that subharmonic cavity modulation provides a simple and effective way to enhance SHG performance while maintaining stable laser operation, offering a useful approach for nonlinear optics and high-efficiency pulsed laser.
