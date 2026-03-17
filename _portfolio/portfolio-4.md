@@ -1,13 +1,15 @@
 ---
-title: "AI-assisted interferometric nanotweezers for label-free EV detection"
-excerpt: "Developed an interferometric nanotweezer platform for label-free trapping and analysis of extracellular vesicles using optical sensing and AI-assisted image processing. Keywords: nanophotonics, optical trapping, interferometric imaging, AI analysis, label-free sensing.<br/><img src='/images/paper4.png'>"
+title: "Parallel nanophotonic trapping platform enabled by photolithographic scalability"
+excerpt: "Developed a parallelized nanophotonic trapping system using photolithographically defined structures, enabling rapid and scalable manipulation of nanoscale particles beyond conventional single-beam optical tweezers. Keywords: parallel trapping, nanophotonics, photolithography, optical tweezers, scalable sensing.<br/><img src='/images/paper4.png'>"
 collection: portfolio
 ---
 
-Developed an interferometric nanotweezer platform for label-free trapping and analysis of extracellular vesicles (EVs) and nanoparticles. The system combines nanophotonic trapping with interferometric scattering (iSCAT/COBRI) imaging to enable real-time detection and characterization of nanoscale biological particles.
+Developed a parallel nanophotonic trapping platform that enables rapid and simultaneous manipulation of multiple nanoscale particles using photolithographically fabricated structures. Unlike conventional optical tweezers that rely on sequential, single-beam trapping, this approach leverages large-area nanostructure arrays to achieve massively parallel trapping.
 
-The platform integrates optical trapping, precision alignment, and AI-assisted image analysis to extract particle trajectories, intensity signals, and size-dependent properties. This approach enables label-free detection, sizing, and analysis of nanoscale vesicles beyond the capability of conventional optical and biochemical methods.
+The system utilizes lithographically defined nanophotonic features to generate localized near-field enhancements, creating an array of optical trapping sites across the substrate. This enables high-throughput trapping and positioning of nanoparticles and extracellular vesicles (EVs) in parallel, significantly improving experimental speed and scalability.
 
-This work highlights hands-on experience in nanophotonics, optical system development, interferometric imaging, data analysis, and AI-assisted sensing.
+By combining structured light–matter interaction with scalable fabrication techniques, the platform transforms optical trapping from a single-particle technique into a parallelized system suitable for statistical analysis and high-throughput sensing.
 
----
+Interferometric imaging (iSCAT/COBRI) is integrated for real-time detection of trapped particles, allowing simultaneous monitoring of multiple trapping events. Image processing and automated analysis pipelines are used to extract particle trajectories and quantify system performance across large ensembles.
+
+This work highlights expertise in nanophotonic design, photolithography-based device fabrication, and system-level engineering of scalable optical trapping platforms for high-throughput nanoscale manipulation and sensing.
