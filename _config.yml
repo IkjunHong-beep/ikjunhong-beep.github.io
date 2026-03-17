@@ -33,7 +33,7 @@ repository               : "academicpages/academicpages.github.io"
   #email            : "none@example.org" 
 
 author:
-  avatar: "files/ikjun.tif"
+  avatar: "Ikjun_headshot"
   name: "Ikjun Hong"
   bio: "PhD Candidate at Vanderbilt University working on integrated photonics, optical sensing, and AI-assited data analysis."
   location: "Nashville, TN"
