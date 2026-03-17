@@ -1,6 +1,6 @@
 ---
 title: "Hybrid nanophotonic tweezers for nanoscale particle manipulation"
-excerpt: "Designed an anapole-enhanced dielectric nanotweezer platform combining optical and diffusiophoretic forces for low-power, label-free nanoparticle manipulation. Keywords: nanophotonics, thermophotonics, electromagnetic simulation, nanofabrication, optical experiments, and imaging.<br/><img src='/images/number_2.png'>"
+excerpt: "Designed an anapole-enhanced dielectric nanotweezer platform combining optical and diffusiophoretic forces for low-power, label-free nanoparticle manipulation. Keywords: nanophotonics, thermophotonics, electromagnetic simulation, nanofabrication, optical experiments, and imaging.<br/><img src='/images/paper2.png'>"
 collection: portfolio
 ---
 
