@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'We introduce Interferometric Electrohydrodynamic Tweezers (IET), an integrated platform that combines rapid molecular trapping, interferometric scattering imaging, and Raman scattering to rapidly trap and characterize single nanoparticles within seconds in one integrated platform. '
-date: 2026-01
+date: 2026-01-01
 venue: 'Light: Science & Applications'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://academicpages.github.io/files/paper1.pdf'
