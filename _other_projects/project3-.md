@@ -1,7 +1,7 @@
 ---
 title: "LLM Agents with RAG Enhancement"
 excerpt: "Reducing hallucinations and improving evaluation metrics using lightweight retrieval-augmented generation (RAG).<br/><img src='/images/project1.jpg'>"
-collection: portfolio
+collection: other_projects
 ---
 
 **Challenge**- Large language models (LLMs) suffer from hallucinations and unreliable outputs, especially in domain-specific tasks. Existing solutions often increase computational cost and system complexity.
