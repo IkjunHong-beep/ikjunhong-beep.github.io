@@ -1,6 +1,6 @@
 ---
 title: "Nanophotonic particle trapping using DBR-enhanced optical fields"
-excerpt: "Demonstrated nanoparticle trapping using distributed Bragg reflector (DBR)-enhanced optical fields for improved confinement and manipulation at the nanoscale. Keywords: nanophotonics, optical trapping, DBR, optical alignment, nanofabrication, near-field optics.<br/><img src='/images/number_3.png'>"
+excerpt: "Demonstrated nanoparticle trapping using distributed Bragg reflector (DBR)-enhanced optical fields for improved confinement and manipulation at the nanoscale. Keywords: nanophotonics, optical trapping, DBR, optical alignment, nanofabrication, near-field optics.<br/><img src='/images/paper3.png'>"
 collection: portfolio
 ---
 
