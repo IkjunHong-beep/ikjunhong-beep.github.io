@@ -2,6 +2,12 @@
 title: "Parallel nanophotonic trapping platform enabled by photolithographic scalability"
 excerpt: "Developed a parallelized nanophotonic trapping system using photolithographically defined structures, enabling rapid and scalable manipulation of nanoscale particles beyond conventional single-beam optical tweezers. Keywords: parallel trapping, nanophotonics, photolithography, optical tweezers, scalable sensing.
 
+### **Challenge**
+- Achieving high-efficiency, comprehensive analysis of single nanoparticles to determine their size, shape, and composition is essential for understanding particle heterogeneity with applications ranging from drug delivery to environmental monitoring. Existing techniques are hindered by low throughput, lengthy trapping times, irreversible particle adsorption, or limited characterization capabilities.
+
+### **Approach**
+- We introduce Interferometric Electrohydrodynamic Tweezers (IET), an integrated platform that combines rapid molecular trapping, interferometric scattering imaging, and Raman scattering to rapidly trap and characterize single nanoparticles within seconds in one integrated platform.
+  
 ### **Techniques**
 - Thermal/flow simulations(DBR)
 - Nanofabrication (Lithography, Evaporation)
