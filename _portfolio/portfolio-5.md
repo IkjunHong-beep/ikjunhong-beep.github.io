@@ -2,21 +2,10 @@
 title: "AI-assisted interferometric nanotweezers for label-free EV detection"
 excerpt: "Developed an AI-enhanced interferometric nanotweezer platform for label-free detection of extracellular vesicles using deep-learning-based segmentation, contrast enhancement, and quantitative image analysis. Keywords: AI segmentation, interferometric imaging, nanophotonics, optical trapping, label-free sensing. 
 
-### **Challenge**
-- Characterization of single nanoparticles requires accurate analysis of particle trajectories, which depends on reliable segmentation of low signal-to-noise interferometric images
-- Conventional segmentation approaches are time-consuming and limit scalable, high-throughput extraction of particle properties such as refractive index and size
-
-### **Approach**
-- Incorporated particle tracking algorithms with U-Net–assisted segmentation to enable automated and robust extraction of particle trajectories
-- Developed a scalable analysis pipeline for accurate and high-throughput particle characterization
-  
-### **Techniques**
-- Label-free Optical Imaging system using interferences
-- Python assisted tracking, AI assisted Segmentation (training/prediction), Image processing for the contrast enhancement, Automated data sampling
-- Nanofabrication (Lithography, Evaporation)
-
-### **Instruments**
-- Micro-Manager, Nikon SDK, CW lasers, CMOS cameras
+**Challenge**- Characterization of single nanoparticles requires accurate analysis of particle trajectories, which depends on reliable segmentation of low signal-to-noise interferometric images, Conventional segmentation approaches are time-consuming and limit scalable, high-throughput extraction of particle properties such as refractive index and size
+**Approach**- Incorporated particle tracking algorithms with U-Net–assisted segmentation to enable automated and robust extraction of particle trajectories
+**Techniques**- Label-free Optical Imaging system using interferences, Python assisted tracking, AI assisted Segmentation (training/prediction), Image processing for the contrast enhancement, Automated data sampling
+**Instruments**- Micro-Manager, Nikon SDK, CW lasers, CMOS cameras
 
 <br/><img src='/images/paper5.gif'>"
 collection: portfolio
