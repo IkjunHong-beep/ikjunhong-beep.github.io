@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "AI-assisted label-free single-particle analysis of milk-derived extracellular vesicles enabled by nanotweezers"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'We developed an integrated platform that combines electrohydrodynamic trapping, interferometric scattering microscopy, and AI-assisted tracking for rapid, label-free analysis of milk-derived extracellular vesicles (mEVs).'
+date: Under Review
+venue: 'npj biosensing'
+#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
