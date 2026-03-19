@@ -10,18 +10,4 @@ permalink: /other_projects
 
 **Techniques** - Transformer encoder for sequential regression, multivariate time-series forecasting, positional encoding, sliding-window sequence generation, train/validation/test splitting, feature normalization, loss-based optimization, delta-luminance modeling, and full-period prediction visualization.
 
-**Hyperparameters**  
-`SEQ_LEN = 40`    
-`PRED_LEN = 1` 
-`BATCH_SIZE = 16`  
-`EPOCHS = 100`  
-`LR = 5e-5`  
-
-`D_MODEL = 32`  
-`NHEAD = 4`  
-`NUM_LAYERS = 1`  
-`DROPOUT = 0.05`  
-
-`TRAIN_RATIO = 0.7`  
-`VAL_RATIO = 0.15`  
-`TEST_RATIO = 0.15`
+**Hyperparameters** - SEQ_LEN = 40, BATCH_SIZE = 16, EPOCHS = 100, LR = 5e-5, D_MODEL = 32, NHEAD = 4, TRAIN_RATIO = 0.7, VAL_RATIO = 0.15, TEST_RATIO = 0.15
