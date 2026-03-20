@@ -1,6 +1,6 @@
 ---
 title: "RAG-LLM agency for my publication summary"
-excerpt: "Reducing hallucinations using lightweight retrieval-augmented generation (RAG).<br/><em>Image credit:</em> <a href='https://research.trychroma.com/generative-benchmarking' target='_blank'>Chroma Research</a><br/><img src='/images/project3.png'>"
+excerpt: "Reducing hallucinations using lightweight retrieval-augmented generation (RAG).<br/><img src='/images/project3.png'>"
 permalink: other_projects
 ---
 
