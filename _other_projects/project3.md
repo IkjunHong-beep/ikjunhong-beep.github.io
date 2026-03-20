@@ -1,6 +1,6 @@
 ---
-title: "LLM Agents with RAG Enhancement"
-excerpt: "Reducing hallucinations and improving evaluation metrics using lightweight retrieval-augmented generation (RAG).<br/><em>Image credit:</em> <a href='https://research.trychroma.com/generative-benchmarking' target='_blank'>Chroma Research</a><br/><img src='/images/project3.png'>"
+title: "RAG-LLM agency for my publication summary"
+excerpt: "Reducing hallucinations using lightweight retrieval-augmented generation (RAG).<br/><em>Image credit:</em> <a href='https://research.trychroma.com/generative-benchmarking' target='_blank'>Chroma Research</a><br/><img src='/images/project3.png'>"
 permalink: other_projects
 ---
 
