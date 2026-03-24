@@ -15,5 +15,6 @@ redirect_from:
 
 🎶 Recently, I am interestd in Abbe/Hopkins imaging theory combined with inverse desing, as well as blurred image reconstruction using Wiener filtering, inverse optimiation, and transfomer based noise estimation.
 
-🎮 Hobbies include playing Last War, practicing the saxophone, and running 🏃‍♀️🏃‍♀️🏃‍♀️
+🎮 Hobbies include playing Last War, pacticing the saxophone, and running 🏃‍♀️🏃‍♀️🏃‍♀️
+
 ---
